@@ -84,9 +84,9 @@
             this.label1.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label1.Location = new System.Drawing.Point(47, 29);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(89, 20);
+            this.label1.Size = new System.Drawing.Size(99, 20);
             this.label1.TabIndex = 1;
-            this.label1.Text = "数据输入";
+            this.label1.Text = "数据输入:";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
@@ -95,9 +95,9 @@
             this.label2.Font = new System.Drawing.Font("宋体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label2.Location = new System.Drawing.Point(110, 68);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(80, 18);
+            this.label2.Size = new System.Drawing.Size(89, 18);
             this.label2.TabIndex = 2;
-            this.label2.Text = "土体参数";
+            this.label2.Text = "土体参数:";
             // 
             // label3
             // 
@@ -105,9 +105,9 @@
             this.label3.Font = new System.Drawing.Font("宋体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label3.Location = new System.Drawing.Point(110, 274);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(80, 18);
+            this.label3.Size = new System.Drawing.Size(89, 18);
             this.label3.TabIndex = 3;
-            this.label3.Text = "工程参数";
+            this.label3.Text = "工程参数:";
             // 
             // dataGridView1
             // 

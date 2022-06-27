@@ -52,9 +52,9 @@
             this.label1_start.Location = new System.Drawing.Point(370, 103);
             this.label1_start.Name = "label1_start";
             this.label1_start.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label1_start.Size = new System.Drawing.Size(437, 33);
+            this.label1_start.Size = new System.Drawing.Size(441, 33);
             this.label1_start.TabIndex = 1;
-            this.label1_start.Text = "水平定向钻孔壁稳定性理论计算   v1.8";
+            this.label1_start.Text = "水平定向钻孔壁稳定性理论计算   V1.0";
             // 
             // index
             // 
